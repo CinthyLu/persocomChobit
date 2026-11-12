@@ -1,0 +1,6 @@
+python-telegram-bot>=22,<23
+anthropic>=2.8,<3
+pydantic>=2.7,<3
+SQLAlchemy>=2.0,<3
+python-dotenv>=1.0
+tzdata
